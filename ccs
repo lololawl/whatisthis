@@ -1,7 +1,7 @@
 {
     "room":                     "rhhn",
     "author":                   "zenopie",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "icon":                     "https://rawgit.com/MegaBraydn/whoopnation/master/index.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,

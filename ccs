@@ -1,7 +1,7 @@
 {
-    "room":                     "rhhn",
+    "room":                     "f.hhh",
     "author":                   "zenopie",
-    "icon":                     "https://rawgit.com/MegaBraydn/whoopnation/master/indexsmall.png",
+    "icon":                     "https://pbs.twimg.com/profile_images/572441441759006720/ny4H5_gK.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -14,17 +14,17 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":                "#42A5DC",
-        "ambassador":           "#84B423",
-        "host":                 "#FF9B00",
-        "cohost":               "#F3508F",
-        "manager":              "#F3508F",
-        "bouncer":              "#F3508F",
-        "rdj":                  "#5DB4FF",
-        "subscriber":           "#A1A6B3",
-        "silversubscriber":     "#A1A6B3",
-        "friend":               "#B35D88",
-        "user":                 "#8B92A3"
+        "admin":"#42A5DC",
+        "ambassador":"#84B423",
+        "host":null,
+        "cohost":"#F3508F",
+        "manager":"#F3508F",
+        "bouncer":"#F3508F",
+        "rdj":"#5DB4FF",
+        "subscriber":"#A1A6B3",
+        "silversubscriber":"#A1A6B3",
+        "friend":"#B35D88",
+        "user":"#8B92A3"
     },
     "images": {
         "background":           null,
@@ -41,6 +41,6 @@
     },
     "autocomplete": [],
     "emotes": {
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+        "yeslawd": "http://forum.hiphopheads.com/uploads/default/_emoji/yeslawd.png"
     }
 }
